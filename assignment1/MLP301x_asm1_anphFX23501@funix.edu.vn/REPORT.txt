@@ -1,0 +1,95 @@
+**** REPORT TASK 1 ****
+
+Pls enter your file name: class1.txt
+Successfully opened 
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT TASK 2 ****
+
+Number of line invalid:  0
+
+**** REPORT TASK 3 ****
+
+Mean is:  75.6
+Highest_score is:  91
+Lowest_score is:  59
+Range_score 32
+Median is:  75.5
+
+>>> ================================ RESTART ================================
+>>>
+**** REPORT TASK 1 ****
+
+Pls enter your file name: class2.txt
+Successfully opened 
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT TASK 2 ****
+
+Number of line invalid:  4
+
+
+Number of line valid 21
+
+
+Invalid lines and reasons:
+
+Invalid line of data: does not contain exactly 26 values:
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+Invalid line of data: N# is invalid
+
+N0000002,B,A,D,D,C,B,D,A,C,D,D,D,A,,A,C,D,,A,C,A,A,B,D,D
+
+Invalid line of data: N# is invalid
+
+NA0000027,B,A,D,D,,B,,A,C,B,D,B,A,,A,C,B,D,A,,A,A,B,D,D
+
+Invalid line of data: does not contain exactly 26 values:
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+**** REPORT TASK 3 ****
+
+Mean is:  78.0
+Highest_score is:  100
+Lowest_score is:  66
+Range_score 34
+Median is:  76
+
+>>> ================================ RESTART ================================
+>>>
+**** REPORT TASK 1 ****
+
+Pls enter your file name: class3.txt
+Successfully opened 
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT TASK 2 ****
+
+Number of line invalid:  0
+
+
+Number of line valid 100
+
+
+
+**** REPORT TASK 3 ****
+
+Mean is:  76.24
+Highest_score is:  96
+Lowest_score is:  56
+Range_score 40
+Median is:  77.5
+
