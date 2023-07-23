@@ -1,6 +1,7 @@
 ﻿- Bạn có thể truy cập vào github sau:
 https://github.com/AnphamKhanh/Project/tree/445c17aa030999c137305c59ebfb74349f0e4f37/assignment1/MLP301x_asm1_anphFX23501%40funix.edu.vn
 - Thư mục chính bao gồm file An_PhamHoang_grade_the_exams.ipynb là file chạy code chính
+- Thư mục assignment1_numpy_pandas là cách khác sử dụng pandas và numpy
 - Thư mục chính có các file class1.txt, class2.txt... class8.txt là các file đầu vào cần xử lý
 - File REPORT.txt là file report khi chạy code, lưu ý file này em để report của 3 lần chạy code của 3 trường hợp bao gồm class1,2,3 .txt
 - Thư mục grade là file đầu ra chứa id và điểm theo yêu cầu của bài assignment này
