@@ -17,7 +17,7 @@ Mean is:  75.6
 Highest_score is:  91
 Lowest_score is:  59
 Range_score 32
-Median is:  75.5
+Median is:  73
 
 >>> ================================ RESTART ================================
 >>>
@@ -91,5 +91,5 @@ Mean is:  76.24
 Highest_score is:  96
 Lowest_score is:  56
 Range_score 40
-Median is:  77.5
+Median is:  77
 
